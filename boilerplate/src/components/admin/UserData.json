@@ -1,0 +1,37 @@
+[{
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "jsmith@gmail.com",
+    "userType": 1
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Smith",
+    "email": "jsmith@gmail.com",
+    "userType": 0
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Smith",
+    "email": "jsmith@gmail.com",
+    "userType": 1
+  },
+  {
+    "firstName": "Ben",
+    "lastName": "Franklin",
+    "email": "jsmith@gmail.com",
+    "userType": 0
+  },
+  {
+    "firstName": "Amy",
+    "lastName": "Gutmann",
+    "email": "jsmith@gmail.com",
+    "userType": 0
+  },
+  {
+    "firstName": "Rajiv",
+    "lastName": "Gandhi",
+    "email": "jsmith@gmail.com",
+    "userType": 1
+  }
+]
